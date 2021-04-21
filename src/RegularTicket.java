@@ -1,5 +1,5 @@
 public class RegularTicket {
-    public   String specialServices;
+    private    String specialServices;
 
 
     public  String getSpecialServices(){

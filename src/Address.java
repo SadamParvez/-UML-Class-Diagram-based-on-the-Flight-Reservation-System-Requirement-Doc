@@ -1,5 +1,5 @@
 public class Address {
-    String street, city, state;
+    private  String street, city, state;
 
     public Address(String street, String city, String state) {
         this.street = street;
