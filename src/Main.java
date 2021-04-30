@@ -8,4 +8,7 @@ public class Main {
         System.out.println(flight.checkAvailability());
         System.out.println(flight.getBookedSeats());
     }
+    Ticket ticket=new
+    RegularTicket();
+    printTicketDetails(ticket)
 }
